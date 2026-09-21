@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+*.session
+*.session-journal
+
+*.log
+logs/
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+.DS_Store
